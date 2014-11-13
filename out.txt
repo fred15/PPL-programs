@@ -1,0 +1,36 @@
+
+* Input an interger to choose the funcion you would like to run *
+
+  1. Top 5 exporting countries for a given year 
+  2. Worst 5 exporting countries for a given year 
+  3. 5 countries with the best balance of trade for a given year. 
+  4. 5 countries with the worst balance of trade for a given year. 
+  5. 5 countries with the best ratio of exports to balance of trade for a given year. 
+  6. 5 countries with the worst ratio of exports to balance of trade for a given year. 
+  7. 5 countries with the worst ratio of exports to balance of trade for a given year & region. 
+  8. 5 countries with the worst ratio of exports to balance of trade for a given year & region. 
+  0. Exit.
+
+input: 
+year from 1986-2006: output: 
+
+  United States   45884300
+  Germany   38267700
+  Japan   35266100
+  France   19904400
+  United Kingdom   18331300
+
+Want to run another process(yes or no)? 
+* Input an interger to choose the funcion you would like to run *
+
+  1. Top 5 exporting countries for a given year 
+  2. Worst 5 exporting countries for a given year 
+  3. 5 countries with the best balance of trade for a given year. 
+  4. 5 countries with the worst balance of trade for a given year. 
+  5. 5 countries with the best ratio of exports to balance of trade for a given year. 
+  6. 5 countries with the worst ratio of exports to balance of trade for a given year. 
+  7. 5 countries with the worst ratio of exports to balance of trade for a given year & region. 
+  8. 5 countries with the worst ratio of exports to balance of trade for a given year & region. 
+  0. Exit.
+
+input: wrong input, try again: 
